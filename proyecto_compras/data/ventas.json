@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 1,
+    "fecha": "2026-09-20",
+    "total": 63.0,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "descripcion": "Teclado",
+        "cantidad": 2,
+        "precio_unitario": 25.5,
+        "subtotal": 51.0
+      },
+      {
+        "producto_id": 2,
+        "descripcion": "Mouse",
+        "cantidad": 1,
+        "precio_unitario": 12.0,
+        "subtotal": 12.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cliente_id": 1,
+    "fecha": "2026-10-14",
+    "total": 63.0,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "descripcion": "Teclado",
+        "cantidad": 2,
+        "precio_unitario": 25.5,
+        "subtotal": 51.0
+      },
+      {
+        "producto_id": 2,
+        "descripcion": "Mouse",
+        "cantidad": 1,
+        "precio_unitario": 12.0,
+        "subtotal": 12.0
+      }
+    ]
+  }
+]
